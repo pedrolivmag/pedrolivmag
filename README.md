@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer. I also enjoy wireframing, ux, ui and design.
+I'm a full-stack developer.
 
 ## Skills and Experience
 * ⚙️ Node JS
