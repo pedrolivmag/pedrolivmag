@@ -6,7 +6,13 @@
 <h3>  👨‍💻  Full Stack Developer |  🌏  Houston, Texas </h3> 
 </div>
 
-## Skills and Experience
-* ⚙️ Node JS
-* ⚛️ React JS
-* 💻 HTML, CSS, JS
+## 🖥 Full Stack
+* ⚙️ Node.js
+* ⚛️ React.js
+* 💻 HTML, CSS, JavaScript
+
+
+## 🤖 Machine Learning
+* ⚙️ Scikit-Learn
+* ⚛️ TensorFlow
+* 💻 Python
