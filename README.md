@@ -6,13 +6,13 @@
 <h3>  👨‍💻  Full Stack Developer |  🌏  Houston, Texas </h3> 
 </div>
 
-## 🖥 Full Stack
+## 💻 Full Stack
 * ⚙️ Node.js
 * ⚛️ React.js
 * 💻 HTML, CSS, JavaScript
 
 
 ## 🤖 Machine Learning
-* ⚙️ Scikit-Learn
-* ⚛️ TensorFlow
+* 🦾 Scikit-Learn
+* 🧠 TensorFlow
 * 💻 Python
