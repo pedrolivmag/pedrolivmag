@@ -13,6 +13,6 @@
 
 
 ## 🤖 Machine Learning
-* 🧠 Scikit-Learn
 * 🦾 TensorFlow
+* 🧠 Scikit-Learn
 * 💻 Python
