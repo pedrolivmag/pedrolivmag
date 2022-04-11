@@ -9,10 +9,4 @@
 ## 💻 Full Stack
 * ⚙️ Node.js
 * ⚛️ React.js
-* 💻 HTML, CSS, JavaScript
-
-
-## 🤖 Machine Learning
-* 🦾 TensorFlow
-* 🧠 Scikit-Learn
-* 💻 Python
+* 💻 HTML, CSS, JavaScript / TypeScript
